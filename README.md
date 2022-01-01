@@ -1,11 +1,11 @@
-# spacefm-plugins
-mijn spacefm plugins (some in English, sommige in het Nederlands)
+# spacefm plugins
+my spacefm plugins (some in English, some in Dutch)
 
-## beschrijving
-In [collectie.md](./collectie.md) heb ik de hele zooi samengebald in leesbaar formaaten in [spacefm-plugins](./spacefm-plugins) heeft elke plugin een eigen `.md`-bestand met de titel en de opdracht van de plugin, en een directory. Als er in commentaarlijnen van de plugin-opdracht geen beschrijving voorzien is, dan hoop ik dat de opdracht zelf duidelijk genoeg is.
+## description
+In [collection.md](./collection.md) I've condensed the whole bunch into readable formats in [spacefm-plugins](./spacefm-plugins) each plugin has its own `.md` file with the title and the command of the plugin, and a directory. If there is no description provided in the plugin command's comment lines, then I hope the command itself is clear enough.
 
-## Uw eigen plugins op uw eigen github-repository zetten
-Voor de geinteresseerden zet ik hier ook het [bash script](_naarGitHub.sh) waarmee ik deze repository heb opgevuld.
+## Put your own plugins on your own github repository
+For those who are interested I also put here the [bash script](_naarGitHub.sh) with which I filled this repository.
 
-## installeren
-Ik moet het nog eens nakijken, maar aangezien ik al mijn spacefm-plugins gewoon heb uitgepakt van hun respectieve `.tar.gz` bestanden, om ze in een leesbaar formaat hier op github te zetten, zou ik suggereren om ze elk afzonderlijk terug in te pakken naar `.tar.gz`, en dan kunt ge ze importeren in spacefm.
+## to install
+I'll have to check again, but since I just extracted all my spacefm plugins from their respective `.tar.gz` files, to put them in a readable format here on github, I'd suggest putting them back in individually to `.tar.gz`, and then you can import them into spacefm. 
